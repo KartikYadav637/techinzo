@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">techinzo</string>
+
+    <string name="viewGithub">View on GitHub</string>
+    <string name="actionSave">Save to Gallery</string>
+
+    <string name="animateX">Animate X</string>
+    <string name="animateY">Animate Y</string>
+    <string name="animateXY">Animate XY</string>
+
+    <string name="actionToggleValues">Toggle Values</string>
+
+    <string name="actionToggleIcons">Toggle Icons</string>
+    <string name="actionToggleHighlight">Toggle Highlight</string>
+    <string name="actionTogglePinch">Toggle PinchZoom</string>
+    <string name="actionToggleAutoScale">Toggle Auto Scale</string>
+
+    <string name="actionToggleCandleShadow">Toggle Shadow Color</string>
+
+    <string name="dash">-</string>
+
+
+</resources>
